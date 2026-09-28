@@ -1,0 +1,56 @@
+[
+  {
+    "id": "coton-kara-ouverture",
+    "title": "Ouverture des achats de coton dans la région de Kara",
+    "summary": "Les points de collecte ouvrent cette semaine. Le prix indicatif reste affiché sur les marchés suivis par AgriBoard.",
+    "body": "Les coopératives de la région de Kara ouvrent les points de collecte du coton graine. Les producteurs sont invités à vérifier le poids sur la bascule du marché et à conserver le reçu de dépôt.\n\nAgriBoard publie le prix indicatif du jour pour comparer les places de Kara et des marchés voisins. En cas d'écart important, le bulletin recommande de demander l'affichage public avant de vendre.\n\nCe bulletin est une donnée de démonstration de la plateforme, rédigée pour l'exercice. Il ne remplace pas un communiqué officiel.",
+    "category": "Coton",
+    "source": "Bulletin AgriBoard",
+    "publishedAt": "2026-09-27T09:00:00.000Z"
+  },
+  {
+    "id": "cacao-kpalime-sechage",
+    "title": "Séchage du cacao : surveiller l'humidité avant la vente",
+    "summary": "À Kpalimé, un cacao mal séché est souvent décoté. Quelques jours de séchage supplémentaire peuvent protéger le prix.",
+    "body": "Sur le plateau de Kpalimé, les acheteurs contrôlent l'humidité des fèves avant de fixer le prix. Un lot encore humide part plus bas, même quand le cours du cacao est ferme.\n\nLe geste utile : étaler les fèves sur des claies, les rentrer le soir, et ne livrer que lorsque les fèves cassent net. Le prix du jour est visible dans l'écran Marchés.\n\nCe bulletin est une donnée de démonstration de la plateforme.",
+    "category": "Cacao",
+    "source": "Bulletin AgriBoard",
+    "publishedAt": "2026-09-26T14:30:00.000Z"
+  },
+  {
+    "id": "anacarde-savanes",
+    "title": "Anacarde des Savanes : regrouper les lots avant de négocier",
+    "summary": "À Dapaong, les petits sacs isolés se vendent moins bien qu'un lot de coopérative pesé et trié.",
+    "body": "Les producteurs d'anacarde des Savanes obtiennent souvent un meilleur prix lorsqu'ils regroupent la récolte, retirent les noix trouées et pèsent une seule fois au marché.\n\nLa coopérative peut alors comparer l'offre de Dapaong avec les autres places suivies dans l'application, sans dépendre d'un seul acheteur de passage.\n\nCe bulletin est une donnée de démonstration de la plateforme.",
+    "category": "Anacarde",
+    "source": "Bulletin AgriBoard",
+    "publishedAt": "2026-09-25T11:15:00.000Z"
+  },
+  {
+    "id": "pluies-semis",
+    "title": "Pluies utiles : caler les semis sur la météo des bassins",
+    "summary": "L'écran Météo suit Lomé, Kara, Sokodé, Atakpamé, Kpalimé et Dapaong à partir d'Open-Meteo.",
+    "body": "Un semis trop tôt, avant une pause des pluies, oblige souvent à ressemer. Un semis dans une forte averse tasse le sol.\n\nAgriBoard affiche la température, la pluie et les cinq prochains jours pour six bassins du Togo. Les chiffres viennent d'Open-Meteo lorsque le réseau répond. Sans réseau, l'application garde la dernière météo enregistrée sur le téléphone.\n\nCe bulletin est une donnée de démonstration de la plateforme.",
+    "category": "Météo",
+    "source": "Bulletin AgriBoard",
+    "publishedAt": "2026-09-24T07:40:00.000Z"
+  },
+  {
+    "id": "ventes-coop",
+    "title": "Ventes groupées : garder une trace du prix et de la quantité",
+    "summary": "Une vente claire indique le produit, le marché, le poids et le prix au kilo. C'est la base d'une coopérative transparente.",
+    "body": "Beaucoup de litiges viennent d'un prix annoncé à l'oral et d'un poids estimé à l'œil. La vente groupée devient plus simple lorsque chaque opération note le marché, l'unité et le prix.\n\nLes écrans Marchés servent de repère commun avant la réunion de la coopérative. Ils ne remplacent pas le reçu du peseur, mais ils évitent de négocier sans chiffre.\n\nCe bulletin est une donnée de démonstration de la plateforme.",
+    "category": "Coopérative",
+    "source": "Bulletin AgriBoard",
+    "publishedAt": "2026-09-23T16:05:00.000Z"
+  },
+  {
+    "id": "igname-atakpame",
+    "title": "Igname à Atakpamé : le tri par taille change le prix du tas",
+    "summary": "Les tubercules abîmés tirent le prix du lot vers le bas. Un tri rapide avant le marché limite la décote.",
+    "body": "Au marché d'Atakpamé, l'igname se négocie encore souvent au tas. Deux tas du même poids n'ont pas le même prix si l'un contient des tubercules coupés ou germés.\n\nRetirer les pièces abîmées avant le transport coûte un peu de temps et protège le prix du reste. Le suivi du kilo indicatif aide à comparer d'une semaine à l'autre.\n\nCe bulletin est une donnée de démonstration de la plateforme.",
+    "category": "Igname",
+    "source": "Bulletin AgriBoard",
+    "publishedAt": "2026-09-22T10:00:00.000Z"
+  }
+]

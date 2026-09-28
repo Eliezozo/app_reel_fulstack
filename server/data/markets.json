@@ -1,0 +1,102 @@
+[
+  {
+    "id": "mais-lome",
+    "crop": "Maïs",
+    "market": "Lomé",
+    "unit": "kg",
+    "price": 275,
+    "currency": "XOF",
+    "changePercent": 1.8,
+    "updatedAt": "2026-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "mais-kara",
+    "crop": "Maïs",
+    "market": "Kara",
+    "unit": "kg",
+    "price": 240,
+    "currency": "XOF",
+    "changePercent": 0.5,
+    "updatedAt": "2026-09-28T08:00:00.000Z"
+  },
+  {
+    "id": "soja-sokode",
+    "crop": "Soja",
+    "market": "Sokodé",
+    "unit": "kg",
+    "price": 410,
+    "currency": "XOF",
+    "changePercent": -1.2,
+    "updatedAt": "2026-09-28T07:30:00.000Z"
+  },
+  {
+    "id": "cacao-kpalime",
+    "crop": "Cacao",
+    "market": "Kpalimé",
+    "unit": "kg",
+    "price": 1450,
+    "currency": "XOF",
+    "changePercent": 3.1,
+    "updatedAt": "2026-09-27T16:00:00.000Z"
+  },
+  {
+    "id": "cafe-kpalime",
+    "crop": "Café",
+    "market": "Kpalimé",
+    "unit": "kg",
+    "price": 1800,
+    "currency": "XOF",
+    "changePercent": 0.4,
+    "updatedAt": "2026-09-27T16:00:00.000Z"
+  },
+  {
+    "id": "coton-kara",
+    "crop": "Coton",
+    "market": "Kara",
+    "unit": "kg",
+    "price": 320,
+    "currency": "XOF",
+    "changePercent": -0.8,
+    "updatedAt": "2026-09-28T06:45:00.000Z"
+  },
+  {
+    "id": "igname-atakpame",
+    "crop": "Igname",
+    "market": "Atakpamé",
+    "unit": "kg",
+    "price": 350,
+    "currency": "XOF",
+    "changePercent": 2,
+    "updatedAt": "2026-09-28T09:10:00.000Z"
+  },
+  {
+    "id": "anacarde-dapaong",
+    "crop": "Anacarde",
+    "market": "Dapaong",
+    "unit": "kg",
+    "price": 600,
+    "currency": "XOF",
+    "changePercent": 1.1,
+    "updatedAt": "2026-09-27T18:20:00.000Z"
+  },
+  {
+    "id": "riz-sokode",
+    "crop": "Riz local",
+    "market": "Sokodé",
+    "unit": "kg",
+    "price": 500,
+    "currency": "XOF",
+    "changePercent": 0.2,
+    "updatedAt": "2026-09-28T08:20:00.000Z"
+  },
+  {
+    "id": "manioc-lome",
+    "crop": "Manioc",
+    "market": "Lomé",
+    "unit": "kg",
+    "price": 180,
+    "currency": "XOF",
+    "changePercent": -0.4,
+    "updatedAt": "2026-09-28T08:05:00.000Z"
+  }
+]
